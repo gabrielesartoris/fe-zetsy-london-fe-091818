@@ -67,6 +67,9 @@ a:hover {
 
 #press {
   display: block;
+}
+
+#press img {
   border: 5px rgb(204,204,204) solid;
   padding: 1px;
   margin-bottom: 20px;
