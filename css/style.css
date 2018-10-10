@@ -81,6 +81,10 @@ a:hover {
   border:rgb(204,204,204);
 }
 
+#press a:active {
+  border:rgb(111,127,112);
+}
+
 #press a:hover {
   border:rgb(111,127,112);
 }
