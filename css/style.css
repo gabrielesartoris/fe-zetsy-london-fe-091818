@@ -77,6 +77,9 @@ a:hover {
   
 }
 
+#press a:hover {
+  border:rgb(111,127,112);
+}
 
 footer p {
     padding-bottom:5px;
