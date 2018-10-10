@@ -77,18 +77,6 @@ a:hover {
   
 }
 
-#press a:link {
-  border:rgb(204,204,204);
-}
-
-#press a:active {
-  border:rgb(111,127,112);
-}
-
-#press a:hover {
-  border:rgb(111,127,112);
-}
-
 footer p {
     padding-bottom:5px;
     margin: 0 0 20px 0;
